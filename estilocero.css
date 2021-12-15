@@ -4,3 +4,38 @@
     padding: 0;
     box-sizing: border-box;
 }
+.row {
+    /* border: 1px solid red; */
+}
+.header {
+    background-color: #DDDEE4;
+}
+.logo {
+	height: 45px;
+	border-radius: 2.25rem;
+}
+.contenido-main {
+    padding-top: 50px;
+    text-align: center;
+}
+.contenido-main-suscribite {
+    padding-top: 150px;
+    text-align: center;
+    
+}
+.main {
+    background-color: #607196;
+}
+.boton {
+    margin-top: 50px;
+    border-radius: 30px;
+}
+.contenido-main-plan {
+    padding-top: 10px;
+    padding-bottom: 15px;
+    text-align: center;
+    color: white;
+}
+.foto {
+    width: 16rem;
+}
